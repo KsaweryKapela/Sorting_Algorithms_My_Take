@@ -10,4 +10,4 @@ Next iteration loops list without it's last item, so on and so on.
 Process is complete if there were no changes made in one for loop iteration.
 
 3. Third solution is about iterating every single integer from the lowest number to the highest.
-If item in list matches the integer, it gets placed on specific place.
+If item in list matches the integer, it gets placed on specific places.
