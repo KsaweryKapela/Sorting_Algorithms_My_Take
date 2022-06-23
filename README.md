@@ -6,6 +6,9 @@ How do they work?
 1. First solution is about getting the highest number and swapping its place with last number.
 Next iteration loops list without it's last item, so on and so on.
 
+1.5. This one works as first solution, but also gets the lowest number.
+It's almost twice as efficient.
+
 2. Second solution compares each number to one on it's right. If it's bigger, then they swap places.
 Process is complete if there were no changes made in one for loop iteration.
 
