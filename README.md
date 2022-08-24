@@ -17,4 +17,5 @@ Process is complete if there were no changes made in one for loop iteration.
 When items in list match iterated integers, they get placed in order. 
 This method needs further improvements, so it stops looping sooner to be more efficient.
 
-# Soon to be updated when I will learn proper vesions of SA.
+
+Soon to be updated when I will learn proper vesions of SA.
